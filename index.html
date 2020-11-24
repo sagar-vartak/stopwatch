@@ -32,12 +32,18 @@
         <span id="hour">00</span> : <span id="min">00</span> :
         <span id="sec">00</span>
       </h1>
-
-      <button onclick="start()" id="start">Start</button>
-      <button onclick="stop()" id="stop">Stop</button>
-      <button onclick="reset()">Reset</button>
-
       <p id="message"></p>
+    </div>
+    <div id="menu">
+      <ul>
+        <li onclick="start()" id="start">
+          <a title="start">Start</a>
+        </li>
+        <li onclick="stop()" id="stop">
+          <a title="stop">Stop</a>
+        </li>
+        <li onclick="reset()"><a title="reset">Reset</a></li>
+      </ul>
     </div>
     <footer>
       <div id="copyright">
