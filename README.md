@@ -21,4 +21,4 @@ A stop watch is a device used to measure speed or duration in fractions of a sec
 
 ## Live Link
 
-[Live Working](https://github.com/sagar-vartak/stopwatch)
+[Live Demo](https://sagar-vartak.github.io/stopwatch/)
